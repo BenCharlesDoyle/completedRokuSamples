@@ -1,0 +1,21 @@
+{
+  "host": "https://api.jsonbin.io/b/",
+  "categories": [
+    {
+      "title": "Drama",
+      "feed_url": "5e61061a763fa966d40fef16"
+    },
+    {
+      "title": "Comedy",
+      "feed_url": "5e61056a763fa966d40fee4a"
+    },
+    {
+      "title": "Horror",
+      "feed_url": "5e61068a74ed8a66ce71daa3"
+    },
+    {
+      "title": "Error Test",
+      "feed_url": "i am broken"
+    }
+  ]
+}
